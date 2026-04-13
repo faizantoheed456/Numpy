@@ -1,0 +1,8 @@
+# Weather Station Data
+# Format: Date,Temperature,Humidity,WindSpeed
+2023-01-01,22.5,65,12.0
+2023-01-02,23.0,N/A,10.5
+2023-01-03,N/A,70,8.0
+2023-01-04,21.0,68,
+2023-01-05,24.5,72,15.5
+# End of file

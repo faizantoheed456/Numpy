@@ -1,0 +1,4 @@
+# Experiment data
+# Date,Temp
+2023-01-01,22.5
+2023-01-02,23.0
